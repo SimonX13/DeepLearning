@@ -1,4 +1,4 @@
-# Deep Learning Programming Assignments
+# Deep Learning Project
 ## Assignment 1: CNN
 ## Assignment 2: Transformer
 ## FINAL Project: Implement Conditional PixelCNN++ model and train it on the given dataset
